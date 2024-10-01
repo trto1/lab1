@@ -1,2 +1,3 @@
 # CSE29_Lab_1
-texts
+texts.
+edited text
